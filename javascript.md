@@ -6,5 +6,30 @@ In the early days of JavaScript, there was only one way of declaring variables a
 
 With the introduction of ES6 in 2015 two more keywords, let and const came into the picture. var and let are both used for variable declaration in javascript but the difference between them is that var is function scoped and let is block scoped. Variable declared by let cannot be redeclared and must be declared before use whereas variables declared with var keyword are hoisted. 
 
+# What is Data types in Js. 
+
+
+## JavaScript has 8 Datatypes
+
+1. String => " Hari"
+2. Number => 2345
+3. Bigint => 123456789
+4. Boolean => True
+5. Undefined 
+6. Null
+7. Symbol
+8. Object
+
+## The Object Datatype
+
+The object data type can contain:
+
+1. An object
+2. An array
+3. A date
+
+Note : A JavaScript variable can hold any type of data. 
+
+
 
     
