@@ -47,4 +47,27 @@ console.log(typeof userEmail);
 
 
 
+// ***********************************************************
 
+// Stack (Primitive), Heap ( Non-Primitive) Memory
+
+let myYoutubename = "shyambiharisevakdal"
+
+let anotherName = myYoutubename
+anotherName = "Shyam Bihari Sevak Dal"
+
+console.log(anotherName);
+console.log(myYoutubename);
+
+// Heap Memory
+
+let userOne = {
+    email: "sharmahari4257@gmail.com",
+    mob: 8865959112
+}
+
+let userTwo = userOne
+userTwo.email = "hari@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
