@@ -37,7 +37,11 @@ const myFunction = function(){
     console.log("Hello World")
 }
 
-console.log(typeof anotherId);
+
+// console.log(typeof score);
+// console.log(typeof scoreValue);
+// console.log(typeof isLoggedin);
+console.log(typeof userEmail);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
 
