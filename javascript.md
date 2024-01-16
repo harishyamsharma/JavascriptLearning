@@ -33,7 +33,7 @@ Note : A JavaScript variable can hold any type of data.
 
 ## Difference between Primitive & Non-Primitive Datatyes ?
 
-The difference between primitive and non primitive data types is that nonprimitives can store multiple values within one object, while primitives only store single values. For example, a nonprimitive such as an array can contain several integers (like 10, 50 and 25), whereas a primitive like int can only store one integer at one time (such as 10).
+The difference between [primitive and non primitive](https://datatrained.com/post/difference-between-primitive-and-non-primitive/) data types is that nonprimitives can store multiple values within one object, while primitives only store single values. For example, a nonprimitive such as an array can contain several integers (like 10, 50 and 25), whereas a primitive like int can only store one integer at one time (such as 10).
 
 [Primitive & Non-Primitive Datatyes](https://datatrained.com/post/difference-between-primitive-and-non-primitive/)
 
