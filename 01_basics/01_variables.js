@@ -18,4 +18,6 @@ because of issue in the block scope & functional scope
 */
 
 console.log([accountEmail, accountId, accountPassword, accountCity, accountState])   
-console.table([accountEmail, accountId, accountPassword, accountCity, accountState])   // 
+console.table([accountEmail, accountId, accountPassword, accountCity, accountState])  
+
+
