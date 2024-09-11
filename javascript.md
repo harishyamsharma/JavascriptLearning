@@ -38,6 +38,12 @@ The difference between [primitive and non primitive](https://datatrained.com/pos
 [Primitive & Non-Primitive Datatyes](https://datatrained.com/post/difference-between-primitive-and-non-primitive/)
 
 
+## What is string in javaacript ?
+
+A JavaScript string stores a series of characters like "John Doe". A string can be any text inside double or single quotes: let carName1 = "Volvo XC60"; let carName2 = 'Volvo XC60'; Try it Yourself
+
+
+
 
 
 
