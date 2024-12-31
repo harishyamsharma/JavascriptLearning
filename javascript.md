@@ -48,5 +48,7 @@ A JavaScript string stores a series of characters like "John Doe". A string can 
 Data types describe the different types or kinds of data that we're gonna be working with and storing in variables. In Javascript, there are five basic, or primitive, types of data. The five most basic types of data are strings, numbers, booleans, undefined, and null. We refer to these as primitive data types.
 
 
+Data types describe the different types or kinds of data that we're gonna be working with and storing in variables. In Javascript, there are five basic, or primitive, types of data. The five most basic types of data are strings, numbers, booleans, undefined, and null. We refer to these as primitive data types.
+
 
     
