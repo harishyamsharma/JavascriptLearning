@@ -64,4 +64,27 @@ Math is a built-in object that provides mathematical constants and functions. It
         console.log(Math.max(1, 5, 10)); // 10
         console.log(Math.pow(2, 3)); // 8 (2^3)
 
-    
+
+## What is date in javascript ?    
+
+In JavaScript, Date is a built-in object used to work with dates and times. It provides functionality to create, manipulate, and format date and time values.
+
+Current Date and Time:
+
+        let now = new Date();
+        console.log(now); // Outputs the current date and time
+
+Specific Date and Time:
+
+        let specificDate = new Date('2024-12-31T12:00:00');
+        console.log(specificDate); // Outputs: Tue Dec 31 2024 12:00:00
+
+Using Year, Month, Day, etc.:
+
+        let customDate = new Date(2024, 11, 31, 12, 0, 0); // Month is 0-indexed (11 = December)
+        console.log(customDate); // Outputs: Tue Dec 31 2024 12:00:00
+
+From a Timestamp:
+
+        let fromTimestamp = new Date(1672531200000); // Milliseconds since Jan 1, 1970
+        console.log(fromTimestamp); // Outputs a date based on the timestamp
