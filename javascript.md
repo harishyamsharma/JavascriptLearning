@@ -43,7 +43,9 @@ The difference between [primitive and non primitive](https://datatrained.com/pos
 A JavaScript string stores a series of characters like "John Doe". A string can be any text inside double or single quotes: let carName1 = "Volvo XC60"; let carName2 = 'Volvo XC60'; Try it Yourself
 
 
+## What is Data Types in Js?
 
+Data types describe the different types or kinds of data that we're gonna be working with and storing in variables. In Javascript, there are five basic, or primitive, types of data. The five most basic types of data are strings, numbers, booleans, undefined, and null. We refer to these as primitive data types.
 
 
 
