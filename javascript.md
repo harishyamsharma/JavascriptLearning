@@ -43,7 +43,16 @@ The difference between [primitive and non primitive](https://datatrained.com/pos
 A JavaScript string stores a series of characters like "John Doe". A string can be any text inside double or single quotes: let carName1 = "Volvo XC60"; let carName2 = 'Volvo XC60'; Try it Yourself
 
 
+## What is number in javascript ?
 
+Number is a built-in object that represents numeric values. It is used for handling and performing operations on numbers.
+
+        let num = 42; // A number
+        let pi = 3.14159; // A floating-point number
+
+        console.log(Number.MAX_VALUE); // Prints the largest possible number
+        console.log(Number.isNaN(NaN)); // true
+        console.log(Number.isInteger(42)); // true
 
 
 
