@@ -54,6 +54,14 @@ Number is a built-in object that represents numeric values. It is used for handl
         console.log(Number.isNaN(NaN)); // true
         console.log(Number.isInteger(42)); // true
 
+## What is Math in javascript ?
 
+Math is a built-in object that provides mathematical constants and functions. It does not have a constructor, so all its properties and methods are static.
+
+        console.log(Math.PI); // 3.141592653589793
+        console.log(Math.sqrt(16)); // 4
+        console.log(Math.random()); // Random number between 0 and 1
+        console.log(Math.max(1, 5, 10)); // 10
+        console.log(Math.pow(2, 3)); // 8 (2^3)
 
     
